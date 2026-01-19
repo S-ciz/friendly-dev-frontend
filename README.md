@@ -31,5 +31,5 @@ The project focuses on building a modern React application using best practices,
 
 ---
 
-## 📂 Project Structure
+
 
