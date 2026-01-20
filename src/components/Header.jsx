@@ -39,7 +39,7 @@ const Header = () => {
               {" "}
               <FaLaptopCode size={30} />{" "}
             </h1>
-            <h1 className="font-bold">The Friendly Developer</h1>
+            <h1 className="font-bold">Cirhuza Bish</h1>
           </div>
         </Link>
 

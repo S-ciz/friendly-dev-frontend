@@ -37,7 +37,7 @@ const ProjectItemPage = () => {
                 <h1 className="text-blue-400 text-3xl font-bold">{project[0].title}</h1>
                 <p className="py-2 font-bold text-gray-500">{formatDate(project[0].date)}</p>
                 <p className="py-2 text-gray-400 mb-5 text-lg">{project[0].description}</p>
-                <Link className="bg-blue-500 py-3 px-5 text-gray-300 rounded " to={project[0].url}>View Live Project</Link>
+                <Link className="bg-blue-500 py-3 px-5 text-gray-300 rounded " to="https://www.instagram.com/c.i.r.h.u.z.a_b.i.s.h">View more projects</Link>
             </div>
         </div>
       </section>
