@@ -4,7 +4,7 @@ const ContactPage = () => {
 
         <>
          <Header />
-      <form method="POST" action="https://formspree.io/f/mdopeled" className="max-w-3xl m-auto mt-8 bg-gray-900 p-5">
+      <form method="POST" action="https://formspree.io/f/xreqgpop" className="max-w-3xl m-auto mt-8 bg-gray-900 p-5">
         <h1 className="py-5 text-3xl text-center text-white font-bold "> 📧 Contact me</h1>
 
         <div  className="block">
